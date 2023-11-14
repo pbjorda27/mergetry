@@ -1,0 +1,7 @@
+[submodule "inspiration"]
+	path = inspiration
+	url = https://github.com/pbjorda27/IT6203.git
+	branch = inspiration
+[submodule "personalskillsite"]
+	path = personalskillsite
+	url = https://github.com/moonDS87/personalskillsite.git
